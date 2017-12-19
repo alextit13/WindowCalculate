@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WindowCalculate</string>
+
+    <string name="slopes">Откосы</string>
+    <string name="window_sill">Подоконники</string>
+    <string name="mosquito_net">Москитные сетки</string>
+</resources>
